@@ -16,6 +16,7 @@ import com.atguigu.atcrowdfunding.service.UserService;
 @RequestMapping("/test")
 public class TestController {
 
+	//×¢Èë
 	@Autowired
 	private UserService userService;
 	
